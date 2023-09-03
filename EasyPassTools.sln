@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyPassCli", "EasyPassCli\EasyPassCli.csproj", "{DE3B15E7-2571-4913-9A36-45D9E6B95BC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyPassFlasher", "EasyPassFlasher\EasyPassFlasher.csproj", "{C26C516A-1FB3-4785-A87C-B8350C635813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyPassFlasher.Core", "EasyPassFlasher.Core\EasyPassFlasher.Core.csproj", "{F4A5D8E1-6130-4D29-9250-AA84A2CF72F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE3B15E7-2571-4913-9A36-45D9E6B95BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3B15E7-2571-4913-9A36-45D9E6B95BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3B15E7-2571-4913-9A36-45D9E6B95BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3B15E7-2571-4913-9A36-45D9E6B95BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C26C516A-1FB3-4785-A87C-B8350C635813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26C516A-1FB3-4785-A87C-B8350C635813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26C516A-1FB3-4785-A87C-B8350C635813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26C516A-1FB3-4785-A87C-B8350C635813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A5D8E1-6130-4D29-9250-AA84A2CF72F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A5D8E1-6130-4D29-9250-AA84A2CF72F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A5D8E1-6130-4D29-9250-AA84A2CF72F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A5D8E1-6130-4D29-9250-AA84A2CF72F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
