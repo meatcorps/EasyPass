@@ -76,3 +76,7 @@ Thanks for using a known enviroment and all the examples:
 
 https://github.com/DeqingSun/ch55xduino
 
+Thanks for providing the flash icon:
+
+https://www.flaticon.com/free-icon/flash_880910
+
