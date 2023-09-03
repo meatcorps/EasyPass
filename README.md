@@ -1,5 +1,5 @@
 # EasyPass
-Easy to use password dongle. That will behave as a HID keyboard device. Then after flashing it will automatically send the password. The total price for DIY will be around $3!
+Easy to use password dongle. That will behave as a HID keyboard device. Then after flashing it will automatically send the password. The total price for DIY will be around $3! 
 
 # Requirements
 This project require 3 things. 
@@ -65,4 +65,14 @@ The color below should go from red to green. Then type or copy paste the passwor
 ### Hard way (really? sure)
 
 Checkout the complete repo. Open it in your favorite C# IDE. Go nuts...
+
+# Credits
+
+Thanks for bootstrapping the initial code. This is now a heavy modified version of it:
+
+https://github.com/tobychui/4xMacropad
+
+Thanks for using a known enviroment and all the examples:
+
+https://github.com/DeqingSun/ch55xduino
 
