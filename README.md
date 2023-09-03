@@ -16,7 +16,7 @@ It require some work. Bare with me! I suggest the use the Easy ways. The other o
 
 ## Hardware
 
-Order the products. I advice the order multiple. Because it can happen that one is not working. Ow I also advise for finishing touch to order or reuse a USB key like this:
+Order the products. I advice the order multiple. Because it can happen that one is not working. Ow I also advise for finishing touch to order or reuse an USB key like this:
 
 ![image](https://github.com/meatcorps/EasyPass/assets/32952469/99cfbf99-0b13-4a42-9087-96ecd74bea04)
 
